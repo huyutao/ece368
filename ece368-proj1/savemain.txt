@@ -1,0 +1,14 @@
+int main (int argc , char **argv){ 
+ 	int Size; 
+ 	char *Filename = "10000.txt"; 
+ 	long *Array = Load_File(Filename,&Size); 
+ 	double NComp; 
+ 	double NMove; 
+ 	Save_Seq1("Sq1.txt",Size); 
+ 	Save_Seq2("Sq2.txt",Size); 
+ 	Improved_Bubble_Sort(Array, Size, &NComp, &NMove); 
+ 	int saved_size = Save_File("sorted.txt",Array,Size); 
+ 	printf("saved_size:%d\n",saved_size); 
+	
+ 	return 0;	 
+} 
