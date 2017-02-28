@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/07_19/freq.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/freq.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/encode.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/list.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/tree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/list.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/encode.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/utility.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/tree.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/constant.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_19/utility.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huff.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unhuff.c" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
